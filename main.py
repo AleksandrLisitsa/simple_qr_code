@@ -6,7 +6,7 @@ from io import BytesIO
 
 app = Flask(__name__)
 
-tinker = 'gav**'
+tinker = 'g*v**'
 
 @app.route("/")
 def root():
